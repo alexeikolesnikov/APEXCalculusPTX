@@ -20,10 +20,10 @@
         <index-page ref="apex-calculus"/>
         <video privacy="yes"/>
         <!-- baseurl should not have a trailing slash -->
-        <baseurl href="https://opentext.uleth.ca/apex-video"/>
+        <baseurl href="https://tigerweb.towson.edu/akolesni/Math275/apex-book"/>
         <knowl example="no"/>
         <asymptote links="yes"/>
-        <webwork divisional="dynamic"/>
+        <webwork divisional="static"/>
         <!-- <css toc="crc" banner="crc" navbar="crc" shell="crc"/> -->
     </html>
     <!-- PDF-Specific Options -->
